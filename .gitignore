@@ -1,5 +1,6 @@
 # Object files
 *.o
+.DS_Store
 
 # Libraries
 *.lib
@@ -15,3 +16,8 @@
 *.exe
 *.out
 *.app
+
+# SVN and Eclipse
+.cproject
+.project
+.svn/
